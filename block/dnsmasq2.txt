@@ -1,0 +1,2 @@
+address=/.qq.com/0.0.0.0
+address=/.helpshift.com/0.0.0.0
